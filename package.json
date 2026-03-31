@@ -1,0 +1,21 @@
+{
+  "name": "ugc-ai-viral-shorts",
+  "version": "4.0.0",
+  "description": "REAL AI SaaS - Turn any topic into viral UGC short blueprint",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
